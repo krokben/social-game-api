@@ -1,0 +1,17 @@
+{
+  "name": "social-game-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:krokben/social-game-api.git",
+  "author": "Tommy Svensson",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
